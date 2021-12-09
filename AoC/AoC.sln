@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 1 Sonar Sweep", "Day 1 Sonar Sweep\Day 1 Sonar Sweep.csproj", "{690B4ECE-9782-473B-9033-37BB4CF891A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 1 Part I", "Day 1 Sonar Sweep\Day 1 Part I.csproj", "{690B4ECE-9782-473B-9033-37BB4CF891A8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 1 Part II", "Day 1 Part II\Day 1 Part II.csproj", "{2EAF87CC-154B-4447-B389-F408F11284E0}"
 EndProject
